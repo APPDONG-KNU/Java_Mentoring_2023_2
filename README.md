@@ -15,15 +15,12 @@
 
 ### 👨‍💻 스터디원
 
-| [<img src="https://github.com/깃허브닉네임1.png" width="100px">](https://github.com/깃허브닉네임1) 
-| [<img src="https://github.com/깃허브닉네임2.png" width="100px">](https://github.com/깃허브닉네임2) 
-| [<img src="https://github.com/깃허브닉네임3.png" width="100px">](https://github.com/깃허브닉네임3) 
-| [<img src="https://github.com/깃허브닉네임4.png" width="100px">](https://github.com/깃허브닉네임4) |
-| :----: | :----: | :----: | :----: |
-| [이름1](https://github.com/깃허브닉네임1) 
-| [이름2](https://github.com/깃허브닉네임2) 
-| [이름3](https://github.com/깃허브닉네임3) 
-| [이름4](https://github.com/깃허브닉네임4) | 
+| [백하나](https://github.com/깃허브닉네임1) 
+| [서혜원](https://github.com/깃허브닉네임2) 
+| [이선화](https://github.com/깃허브닉네임3) 
+| [전연수](https://github.com/깃허브닉네임4) 
+| [최예은](https://github.com/깃허브닉네임5) 
+| [SICHALI NIVWA](https://github.com/깃허브닉네임6) 
 
 ## ⏰ 모임시간
 
